@@ -8,5 +8,5 @@ const PageNotFound = () => {
   );
 };
 
-//FIXME: missing keywords
-PageNotFound;
+//FIXME: DONE missing keywords
+export default PageNotFound;
